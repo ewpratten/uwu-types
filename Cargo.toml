@@ -1,8 +1,16 @@
 [package]
 name = "uwu-types"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 edition = "2018"
+description = "Some UwU and OwO for your Rust code"
+documentation = "https://docs.rs/uwu-types"
+readme = "README.md"
+homepage = "https://github.com/ewpratten/uwu-types"
+repository = "https://github.com/ewpratten/uwu-types"
+license = "GPL-3.0"
+keywords = ["uwu", "thingskatedid"]
+categories = ["development-tools", "no-std"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
